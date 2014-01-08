@@ -1,8 +1,6 @@
 ECE281_CE1
 ==========
 
-#C3C Bodin's Lame Circuit
-
 ##Truth Table
 
 A|B|C|F
