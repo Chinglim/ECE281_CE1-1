@@ -1,7 +1,7 @@
 ECE281_CE1
 ==========
 
-##Truth Table
+## Predicted Truth Table
 
 A|B|C|F
 ---|---|---|---
@@ -14,6 +14,10 @@ A|B|C|F
 1|1|1|1
 
 
-##Simulated Waveform
+## Simulated Waveform
 Simulated Waveform: 
-![alt text](https://github.com/taylorbodin/ECE281_CE1/waveform.jpg "Itsa waveform")
+![itsa waveform!](waveform.jpg)
+
+##Analysis
+
+The simulated waveform directly copies the predicted truth table if read from earliest time to latest
